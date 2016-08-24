@@ -16,3 +16,12 @@ Makefile.in
 /install-sh
 /missing
 /stamp-h1
+
+# Generated files
+
+Makefile
+/config.h
+/config.log
+/config.status
+.deps
+

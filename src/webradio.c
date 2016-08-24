@@ -8,6 +8,8 @@
  * All rights reserved.
  */
 
+#include <config.h>
+
 #include "defines.h"
 
 #include <stdbool.h>
