@@ -33,3 +33,7 @@ src/webradio
 *.o
 *.tar.gz
 
+# Runtime files
+src/*.pid
+src/logs/
+
