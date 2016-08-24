@@ -31,7 +31,7 @@ Make sure you have these packages installed at runtime:
 
 1. `./configure`
 2. `make`
-3. `./play.sh [optional-icy-radio-url]`
+3. `src/play.sh [optional-icy-radio-url]`
 
 If you don't specify any URL, you'll hear [.977 - The 80's Channel](http://www.977music.com/).
 
