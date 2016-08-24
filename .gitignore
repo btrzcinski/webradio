@@ -25,3 +25,10 @@ Makefile
 /config.status
 .deps
 
+# Vim detritus
+*.swp
+
+# Built files
+src/webradio
+*.o
+
