@@ -31,4 +31,5 @@ Makefile
 # Built files
 src/webradio
 *.o
+*.tar.gz
 
